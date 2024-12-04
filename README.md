@@ -4,7 +4,7 @@ Slides for the self-designed course given to BA students at the University of Co
 
 Feel free to share and re-use!
 
-Topics covered: 
+**Topics covered** 
 
 1: The historical trajectory of inequality 
 
