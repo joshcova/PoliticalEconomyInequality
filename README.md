@@ -6,8 +6,10 @@ Feel free to share and re-use!
 
 Topics covered: 
 
-1: The historical trajectory of inequality 
-2: Fordism, embedded liberalism and Varieties of Capitalism
+1: The historical trajectory of inequality \\
+
+2: Fordism, embedded liberalism and Varieties of Capitalism \\
+
 3: Trade unions, power resource, wage-setting coordination
 4: Labor market dualization, labor market insiders vs. outsiders
 5: Winner-take-all politics, trickle-down economics, austerity
